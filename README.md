@@ -1,6 +1,6 @@
 # Social AI
 
-A React-based social media web application with user authentication, content browsing, and interactive frontend features.
+A React-based social media web application with user authentication, search functionality, and interactive frontend features.
 
 ## Features
 
@@ -20,12 +20,12 @@ A React-based social media web application with user authentication, content bro
 
 ## Project Structure
 
-- `src/components` - reusable UI components
-- `src/styles` - page and component styles
-- `src/App.js` - main app entry
-- `src/index.js` - app bootstrap
-- `src/setupProxy.js` - local proxy configuration
-- `src/constants.js` - shared constants and configuration
+- `src/components` – reusable UI components
+- `src/styles` – page and component styles
+- `src/App.js` – main app entry
+- `src/index.js` – app bootstrap
+- `src/setupProxy.js` – local proxy configuration
+- `src/constants.js` – shared constants
 
 ## Run Locally
 
